@@ -1,4 +1,16 @@
-Welcome to the Glitch BETA
+Request Header Parser Microservice
+
+A simple API which runs on Node.js with the following user stories.
+
+`User Story: User can get the IP address, language and operating system for my browser.`
+
+Example Usage: https://cryptic-ridge-9197.herokuapp.com/api/whoami/
+
+Example Output: `{"ipaddress":"27.251.197.195","language":"en-US","software":"X11; Linux x86_64"}`
+
+Made and deployed on Glitch.
+
+Some information about Glitch.
 =========================
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
@@ -8,20 +20,3 @@ Click `Show` in the header to see your app live. Updates to your code will insta
 Find out more [about Glitch](https://glitch.com/about).
 
 
-Your Project
-------------
-
-On the front-end,
-- edit `public/client.js`, `public/style.css` and `views/index.html`
-- drag in `assets`, like images or music, to add them to your project
-
-On the back-end,
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env` (nobody can see this but you and people you invite)
-
-
-Made by [Fog Creek](https://fogcreek.com/)
--------------------
-
-\ ゜o゜)ノ
